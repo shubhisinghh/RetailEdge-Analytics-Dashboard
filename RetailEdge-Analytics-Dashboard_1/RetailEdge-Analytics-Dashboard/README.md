@@ -176,14 +176,3 @@ psql -U postgres -d retailedge -f sql/queries.sql
 
 ---
 
-## Future Enhancements
-
-- Add forecasting using `Prophet` or `statsmodels`
-- Build a Streamlit web app for interactive exploration
-- Automate the pipeline with Apache Airflow or cron
-- Add unit tests for data cleaning functions
-- Integrate with a live PostgreSQL database via SQLAlchemy
-
----
-
-*Built as an independent data analytics project — FY 2023 retail sales intelligence.*
