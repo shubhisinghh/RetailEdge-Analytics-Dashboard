@@ -1,0 +1,21 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+C1001,1,845,239290.92,1,3,2,6,Potential Loyalists
+C1002,1,851,245396.7,1,3,2,6,Potential Loyalists
+C1003,1,818,236522.93,1,1,1,3,Lost
+C1004,1,845,244959.59,1,3,2,6,Potential Loyalists
+C1005,1,861,247615.35,2,3,3,8,Loyal Customers
+C1006,1,906,267845.12,2,4,4,10,Champions
+C1007,1,817,234374.88,2,1,1,4,At Risk
+C1008,1,884,267252.11,2,4,4,10,Champions
+C1009,1,871,260194.86,2,4,4,10,Champions
+C1010,1,887,260773.65,3,4,4,11,Champions
+C1011,1,817,246275.74,3,1,3,7,Potential Loyalists
+C1012,1,836,248245.5,3,2,3,8,Loyal Customers
+C1013,1,843,244258.82,3,2,2,7,Potential Loyalists
+C1014,1,849,240240.35,3,3,2,8,Loyal Customers
+C1015,1,929,272892.53,4,4,4,12,Champions
+C1016,1,842,251277.44,4,2,3,9,Loyal Customers
+C1017,1,784,221912.84,4,1,1,6,Potential Loyalists
+C1018,1,824,234861.38,4,2,1,7,Potential Loyalists
+C1019,1,841,247729.39,4,2,3,9,Loyal Customers
+C1020,1,897,253623.7,4,4,4,12,Champions
